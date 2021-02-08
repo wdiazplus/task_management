@@ -23,6 +23,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'hamlit-rails'
 gem 'simple_form'
+gem 'annotate','>= 2.7.1'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
