@@ -5,6 +5,9 @@ en:
       category:
         one: categoría
         others: Categorías
+      task:
+        one: tarea
+        others: Tareas
       tasks:
         one: tarea
         others: Tareas
@@ -16,6 +19,9 @@ en:
   common:
     back: Regresar
   hello: Hello world
+  task:
+    errors:
+      invalid_due_date: Invalid due date
   tasks:
     form:
       category: Categoría
